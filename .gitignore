@@ -1,3 +1,2 @@
-logs
-logs/*
-logs/scheduler/latest
+# Ignoring logs files created by airflow
+logs/
