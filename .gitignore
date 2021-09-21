@@ -1,2 +1,3 @@
 # Ignoring logs files created by airflow
 logs/
+*.log
